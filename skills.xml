@@ -1,0 +1,9 @@
+{	
+	"Skills to be learned in the course":
+	"1.Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC",
+	"2. What is a client-server architecture.",
+	"3. HTTP methods for visiting the server.",
+	"4. What is JSON, XML. Their structure.",
+	"5.API testing via Postman (JS, API autotests) and other skills".
+
+}
