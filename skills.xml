@@ -1,7 +1,9 @@
-
+<?xml version="3.0"> encoding="UTF-8"?>
+<Main>
 <skills>Skills to be learned in the course:</skills>
 <1skill>1.Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC",</1skill>
 <2skill>2. What is a client-server architecture,</2skill>
 <3skill>3. HTTP methods for visiting the server,</3skill>
 <6skill>4. What is JSON, XML. Their structure,</4skill>
-<5skill>5.API testing via Postman (JS, API autotests) and other skills.<5skill>
+<5skill>5.API testing via Postman (JS, API autotests) and other skills.</5skill>
+</Main>

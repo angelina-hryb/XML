@@ -1,8 +1,16 @@
-{	
-	"My favorite film":"Twilight",
-	"My favorite serial":"Magnificent century",
-	"My favorite food":"Grilled chicken with french fries and vegetables",
-	"My favorite season":"Summer",
-	"Which country you would like to visit":"France,Spain,Netherlands,Sweden"
+<?xml version="2.0"> encoding="UTF-8"?>
+<Main>
 
-}
+	<My_favorite_movie>
+		<movie1>Twilight</movie1>
+	</My_favorite_movie>
+	<My_favorite_serial>:Magnificent century</My_favorite_serial>	
+	<My_favorite_food>Grilled chicken with french fries and vegetables"</My_favorite_food>
+	<My_favorite_season>:Summer</My_favorite_season>
+	<Which_country_would_you_like_to_visit>:
+	<country1>France</country1>
+	<country2>Spain</country2>
+	<country3>Netherlands<country3>
+	<country4>Sweden<country4> 
+	</Which_country_would_you_like_to_visit>
+</Main>
