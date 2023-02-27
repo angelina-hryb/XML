@@ -1,9 +1,9 @@
 <?xml version="1.0" encording="UTF-8"?>
 <main>
 	<person>
-		<Full name:>Hryb Angelina,</Full name>	
-		<age:> 29, </age>
+		<Full_name:>Hryb_Angelina,</Full_name>	
+		<age:>29,</age>
 	</person>
-		<Pets:>I dont have a pet,</Pets>
-		<Desired Salary:>2000 USD</Desired Salary>
+		<Pets:>I_dont_have_a_pet,</Pets>
+		<Desired_Salary:>2000_USD</Desired_Salary>
 </main>
